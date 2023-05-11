@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Neerajneo24
 - 👀 I’m interested in exploration
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on how to ease life to live
+- 🌱 I’m currently learning data science 
+- 💞️ I’m looking for how to ease life  with huge data
 - 📫 my mail id is neerajpankaj24@gmail.com
 
 <!---
